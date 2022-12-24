@@ -1,0 +1,16 @@
+{
+  "name": "ward-bus-data-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@turf/boolean-intersects": "^6.5.0",
+    "@turf/turf": "^6.5.0"
+  }
+}
